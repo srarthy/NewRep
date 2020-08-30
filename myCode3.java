@@ -11,6 +11,7 @@ public class myCode3 {
 		System.out.println("Last line added");
 		System.out.println("New Last line added now.See you soon.Love you............");
 		System.out.println("Hurray.........................");
+		System.out.println("Have a nice day.........................");
 	}
 
 }
